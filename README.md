@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Price Prediction — React + Flask UI
 
 A React (Vite) frontend and Flask REST API around the trained
@@ -109,3 +110,7 @@ environment variable `CAR_REFERENCE_YEAR` before starting Flask or send
 
 The model was pickled with scikit-learn 1.6.1 and loads cleanly on newer 1.x
 versions; the harmless version warning is suppressed in `backend/app.py`.
+=======
+# car-price-prediction
+End-to-end ML pipeline for car price prediction — EDA, feature engineering, model training, and a Streamlit web app.
+>>>>>>> 1ebc7ca87df93b73b427b73b0f163ea67437fcd8
